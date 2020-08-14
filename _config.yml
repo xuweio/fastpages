@@ -79,7 +79,7 @@ default_badges:
 
 # Everything below here should be left alone. Modifications may break fastpages 以下请勿修改
 future: true
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-gist
